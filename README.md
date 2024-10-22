@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Gerard
 
-<!--
-**gerardgimenezadsuar/gerardgimenezadsuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer & AI Specialist
 
-Here are some ideas to get you started:
+🚀 From data science roots to crafting end-to-end applications, I've spent the last 4 years as a freelance developer pushing the boundaries of what's possible with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+🤖 **Current Focus:** Building innovative LLM applications
+- Specializing in RAG (Retrieval-Augmented Generation)
+- Implementing hybrid search solutions
+- Bridging the gap between AI and practical applications
+
+### Background
+
+📊 **Career Evolution:**
+- Started as a Data Scientist
+- Transitioned to Full-Stack Development
+- 4+ years of freelance experience
+
+### Let's Connect
+
+📫 **Get in Touch:** [gerard@solucionsdedades.cat](mailto:gerard@solucionsdedades.cat)
+
+---
+*Always interested in discussing new projects and opportunities in the AI space!*
