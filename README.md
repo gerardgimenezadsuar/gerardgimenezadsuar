@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer & Data Scientist
 
-🚀 From data science roots to crafting end-to-end applications, I've spent the last 4 years as a freelance pushing the boundaries of what's possible with technology.
+🚀 From data science roots to crafting end-to-end applications, I've spent the last 4 years as a freelancer pushing the boundaries of what's possible with technology.
 
 ### What I Do
 
