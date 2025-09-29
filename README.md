@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Gerard
+# Hi, I'm Gerard
 
 ### AI Engineer & Data Scientist
 
-🚀 From data science roots to crafting end-to-end applications, I've spent the last 5 years as a freelancer pushing the boundaries of what's possible with technology.
+From data science roots to crafting end-to-end AI applications, I've spent the last 5 years as a freelancer pushing the boundaries of what's possible.
 
 ### What I Do
 
@@ -15,7 +15,7 @@
 
 **Career Evolution:**
 - Started as a Data Scientist
-- Transitioned to Full-Stack Development
+- Transitioned to Full-Stack AI Development
 - 5+ years of freelance experience
 
 ### Let's Connect
@@ -23,4 +23,4 @@
 📫 **Get in Touch:** [gerard@solucionsdedades.cat](mailto:gerard@solucionsdedades.cat)
 
 ---
-*Always interested in discussing new projects and opportunities in the AI space!*
+*Always interested in discussing new projects and opportunities*
