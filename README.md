@@ -2,7 +2,7 @@
 
 ### AI Engineer & Data Scientist
 
-From data science roots to crafting end-to-end AI applications, I've spent the last 5 years as a freelancer pushing the boundaries of what's possible.
+From data science roots to crafting end-to-end AI applications, I've spent the last 5 years as a freelancer delivering value for customers.
 
 ### What I Do
 
