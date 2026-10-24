@@ -20,7 +20,7 @@ From data science roots to crafting end-to-end AI applications, I've spent the l
 
 ### Let's Connect
 
-📫 **Get in Touch:** [gerard@solucionsdedades.cat](mailto:gerard@solucionsdedades.cat)
+📫 **Get in Touch:** [ggadsuar@gmail.com](mailto:ggadsuar@gmail.com)
 
 ---
 *Always interested in discussing new projects and opportunities*
